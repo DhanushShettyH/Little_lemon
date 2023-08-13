@@ -11,7 +11,7 @@ import Reservations from "./pages/Reservations/Reservations";
 
 const App = () => {
   return (
-    //hello
+    //hello world
     <div data-testid="app-component">
       <Layout>
         <Routes>
